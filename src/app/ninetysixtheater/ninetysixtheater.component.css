@@ -1,0 +1,33 @@
+.z1{
+    border-radius: 10px;
+}
+.green-dot {
+    height: 10px;
+    width: 10px;
+    background-color: green;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 7px;
+    vertical-align: middle;
+    margin-top: 2px;
+  }
+  .red-dot {
+    height: 10px;
+    width: 10px;
+    background-color: red;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 7px;
+    vertical-align: middle;
+    margin-top: 2px;
+  }
+  .yellow-dot {
+    height: 10px;
+    width: 10px;
+    background-color:orange;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 7px;
+    vertical-align: middle;
+    margin-top: 6px;
+  }

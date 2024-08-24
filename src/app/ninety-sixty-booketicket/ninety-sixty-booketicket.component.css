@@ -1,0 +1,36 @@
+#a1{
+    height: 480px;
+    background-image: url('/assets/image/96-booking-slide.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 9px;
+
+}
+#aa2{
+    width: 230px;
+    font-size: large;
+    margin-left: 430px;
+    margin-top: 370px;
+    height: 60px;
+    border: none;
+    border-radius: 5%;
+}
+#aa3{
+    margin-left: -560px;
+    margin-top: -340px;
+}
+#aa4{
+    border: none;
+    margin-left: 870px;
+    width: 140px;
+    height: 52px;
+    margin-top: -700px;
+    border-radius: 10%;
+    cursor: pointer;
+}
+#eyebutton{
+    color:  rgb(247, 92, 92);
+    border-radius: 50px;
+    border: solid 1px grey;
+    padding: 5px;
+}

@@ -1,0 +1,19 @@
+#a1{
+    display: flex;
+    justify-content: s;
+    width: 100%;
+}
+
+#a2{
+    width: 20%;
+    background-color:whitesmoke;
+}
+#a3{
+    width: 60%;
+   background-color: white;
+}
+#a4{
+    width: 20%;
+    background-color:whitesmoke;
+}
+

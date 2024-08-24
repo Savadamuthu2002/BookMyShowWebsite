@@ -1,0 +1,39 @@
+#a1{
+    height: 480px;
+    background-image: url('/assets/image/ranamslidephoto.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 9px;
+
+}
+#aa2{
+    width: 230px;
+    font-size: large;
+    margin-left: 450px;
+    margin-top: 370px;
+    height: 60px;
+    border: none;
+    border-radius: 5%;
+}
+#aa3{
+    margin-left: -560px;
+    margin-top: -330px;
+}
+#aa4{
+    border: none;
+    margin-left: 880px;
+    width: 140px;
+    height: 52px;
+    margin-top: -705px;
+    border-radius: 10%;
+    cursor: pointer;
+}
+#a5{
+    margin-left: 30px;
+}
+#eyebutton{
+    color:  rgb(247, 92, 92);
+    border-radius: 50px;
+    border: solid 1px grey;
+    padding: 5px;
+}

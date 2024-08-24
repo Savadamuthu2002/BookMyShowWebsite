@@ -1,0 +1,67 @@
+#a1{
+    display: flex;
+    width: 100%;
+}
+
+#a2{
+    width: 15%;
+    background-color:whitesmoke;
+}
+#a3{
+    width: 80%;
+   background-color: white;
+}
+#a4{
+    width: 15%;
+    background-color:whitesmoke;
+}
+#par{
+    display: flex;
+    justify-content: space-between;
+}
+.massmuthu{
+    color: black;
+    font-size: 22px;
+    margin-left: 15px;
+}
+#f1{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color:whitesmoke;
+    margin-top: -18px;
+}
+#s1{
+    width: 22%;
+    background-color: white;
+    height: 100px;
+}
+#s2{
+   width: 55%; 
+   background-color: white;
+}
+#s3{
+    width: 20%;
+    background-color: white;
+    height: 110px;
+}
+#dong{
+    background-color: whitesmoke;
+    padding: 25px;
+}
+#dd{
+    display: flex;
+    justify-content: space-between;
+}
+#onclick{
+    background-color: rgb(247, 92, 92);
+    color:  white;
+    border: rgb(247, 92, 92) solid 1px;
+    border-radius: 3px;
+    width: 160px;
+    margin-right: 40px;
+    height: 40px;
+}
+li{
+    margin-top: 15px;
+}
